@@ -1,0 +1,23 @@
+commit bdc6bbceb188748b806c13af73802fa0891802e8
+Author: ronahect29 <ronahect29@gmail.com>
+Date:   Wed Jan 25 11:17:25 2023 -0600
+
+     Modificacion al programa de promedio
+
+commit 26a0e39dcccecc964c03f34ddcc96d01e8dcb6e8
+Author: ronahect29 <ronahect29@gmail.com>
+Date:   Tue Jan 24 22:27:56 2023 -0600
+
+    cambios del programa operaciones basicas
+
+commit 660c494961dfb8eea57f5da6e3fdbc07c3b08eb9
+Author: ronahect29 <ronahect29@gmail.com>
+Date:   Tue Jan 24 21:28:40 2023 -0600
+
+    inicio de las mejoras de los programas
+
+commit efcc2bba7951a2f8c2abde6976a2c23a014af4a0
+Author: Hector Rosales <98504704+ronahect29@users.noreply.github.com>
+Date:   Mon Jan 23 11:00:54 2023 -0600
+
+    Initial commit
