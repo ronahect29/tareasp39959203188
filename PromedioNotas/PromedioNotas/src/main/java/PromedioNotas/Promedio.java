@@ -31,11 +31,10 @@ public class Promedio {
             prome[i]=teclado.nextInt();
            total=total+prome[i];
         }
-        System.out.println("total es: "+total);
+        
         total= total/20;
-        System.out.println("promedio general es: "+total);
-        for(i=19;i>=0;--i)
-            System.out.println("alumno "+i+" su promedio es: "+prome[i]);  
+        System.out.println("El promedio general es de: "+total);
+        // se borra el resto del codigo porque sobrecarga a la corrida y muestra mas datos de lo normal  
     }        
         
 }
